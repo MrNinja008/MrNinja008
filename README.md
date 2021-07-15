@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...https://discord.io/turtlePE
 
-https://github-readme-stats.vercel.app/api?username=MrNinja008&theme=vue-dark&show_icons=true&count_private=true&include_all_commits=true
+![Icon]<a href=https://github-readme-stats.vercel.app/api?username=MrNinja008&theme=vue-dark&show_icons=true&count_private=true&include_all_commits=true
